@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/ikons">
+        <file>save.png</file>
+        <file>open-folder-outline.png</file>
+    </qresource>
+</RCC>
